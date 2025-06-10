@@ -47,7 +47,6 @@ Includes a **modern GUI** with optional **MESA simulation** interface for advanc
 ### 📦 Dependencies
 Install via:
 
-```bash
 pip install opencv-python imagehash Pillow mesa customtkinter
 
 smart-image-cleanup-tool/
