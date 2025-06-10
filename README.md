@@ -50,29 +50,17 @@ Install via:
 pip install opencv-python imagehash Pillow mesa customtkinter
 
 smart-image-cleanup-tool/
-
 ├── GUI.py
-
 ├── Duplicates.py
-
 ├── lowQuality.py
-
 ├── captureFace.py
-
 ├── compare_face.py
-
 ├── OldImages.py
-
 ├── Mesa/
-
 │   ├── gui.py
-
 │   ├── agent.py
-
 │   ├── model.py
-
 ├── README.md
-
 ├── requirements.txt
 
 **python GUI.py**
